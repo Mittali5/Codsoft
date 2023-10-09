@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    color: rgb(79, 119, 154);
+}
+div{
+    background-color:whitesmoke;
+    width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+input{
+    width: 10px;
+    background-color: powderblue;
+    color: rgb(66, 51, 51);
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 24px;
+    margin: 5px;
+    font-size: 15px;
+}
+#calc{
+    width: 300px;
+    border: 4px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 40px auto;
+}
+#clr-btn{
+    width: 200px;
+}
